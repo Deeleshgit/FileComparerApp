@@ -1,0 +1,101 @@
+Line 1: The sun is bright
+Line 2: Dogs bark loud.
+Line 3: Rain drops quickly.
+Line 4: Birds fly high.
+Line 5: Trees grow tall.
+Line 6: Cars go fast.
+Line 7: The sky is blue.
+Line 8: Grass grows green.
+Line 9: Snow feels cold.
+Line 10: Fire burns hot.
+Line 11: Apples are red.
+Line 12: Bananas are yellow.
+Line 13: Oranges are orange.
+Line 14: Water flows clear.
+Line 15: Milk is white.
+Line 16: Night stays dark.
+Line 17: Day shines bright.
+Line 18: Stars shine.
+Line 19: Moon glows.
+Line 20: Wind blows.
+Line 21: Leaves fall.
+Line 22: Flowers bloom.
+Line 23: Bees buzz.
+Line 24: Fish swim.
+Line 25: Birds sing.
+Line 26: Trains move.
+Line 27: Roads stretch.
+Line 28: Bridges link.
+Line 29: Clouds float.
+Line 30: Hills rise.
+Line 31: Mountains rise.
+Line 32: Valleys sink.
+Line 33: Lakes sit.
+Line 34: Rivers run.
+Line 35: Oceans spread.
+Line 36: Sand moves.
+Line 37: Time passes.
+Line 38: Clocks tick.
+Line 39: Bells ring.
+Line 40: Doors open.
+Line 41: Windows close.
+Line 42: People walk.
+Line 43: Children laugh.
+Line 44: Babies cry.
+Line 45: Teachers teach.
+Line 46: Students learn.
+Line 47: Writers write.
+Line 48: Artists draw.
+Line 49: Builders build.
+Line 50: Painters paint.
+Line 51: Musicians play.
+Line 52: Singers sing.
+Line 53: Dancers dance.
+Line 54: Actors act.
+Line 55: Doctors help.
+Line 56: Nurses help.
+Line 57: Police patrol.
+Line 58: Firefighters save.
+Line 59: Soldiers fight.
+Line 60: Farmers grow.
+Line 61: Chefs cook.
+Line 62: Bakers bake.
+Line 63: Drivers drive.
+Line 64: Pilots fly.
+Line 65: Captains sail.
+Line 66: Coders code.
+Line 67: Hackers hack.
+Line 68: Gamers play.
+Line 69: Athletes train.
+Line 70: Coaches coach.
+Line 71: Swimmers swim.
+Line 72: Runners run.
+Line 73: Jumpers jump.
+Line 74: Climbers climb.
+Line 75: Shooters shoot.
+Line 76: Writers think.
+Line 77: Readers read.
+Line 78: Listeners listen.
+Line 79: Talkers talk.
+Line 80: Quiet stays.
+Line 81: Lights glow.
+Line 82: Shadows fall.
+Line 83: Music plays.
+Line 84: Silence follows.
+Line 85: Phones ring.
+Line 86: Screens glow.
+Line 87: Keys type.
+Line 88: Mice click.
+Line 89: Emails send.
+Line 90: Files save.
+Line 91: Printers print.
+Line 92: Fans spin.
+Line 93: Apps open.
+Line 94: Tabs load.
+Line 95: Browsers browse.
+Line 96: Texts scroll.
+Line 97: Voices speak.
+Line 98: Videos play.
+Line 99: Networks connect.
+Line 100: Systems run.
+Line 101: This line only in file2.
