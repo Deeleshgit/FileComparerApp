@@ -1,4 +1,3 @@
-FileComparerApp
 FileComparerApp is a simple console tool that compares two text files line by line using UTF-8 byte-by-byte comparison. It shows differences in the console and saves the results to an Excel file.
 
 Features
